@@ -1,0 +1,6080 @@
+fileFormatVersion: 2
+guid: 712940ef45f5648359af6a5cc4eaddd8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Arcade - X-Men - Wolverine_0
+  - first:
+      213: 21300002
+    second: Arcade - X-Men - Wolverine_1
+  - first:
+      213: 21300004
+    second: Arcade - X-Men - Wolverine_2
+  - first:
+      213: 21300006
+    second: Arcade - X-Men - Wolverine_3
+  - first:
+      213: 21300008
+    second: Arcade - X-Men - Wolverine_4
+  - first:
+      213: 21300010
+    second: Arcade - X-Men - Wolverine_5
+  - first:
+      213: 21300012
+    second: Arcade - X-Men - Wolverine_6
+  - first:
+      213: 21300014
+    second: Arcade - X-Men - Wolverine_7
+  - first:
+      213: 21300016
+    second: Arcade - X-Men - Wolverine_8
+  - first:
+      213: 21300018
+    second: Arcade - X-Men - Wolverine_9
+  - first:
+      213: 21300020
+    second: Arcade - X-Men - Wolverine_10
+  - first:
+      213: 21300022
+    second: Arcade - X-Men - Wolverine_11
+  - first:
+      213: 21300024
+    second: Arcade - X-Men - Wolverine_12
+  - first:
+      213: 21300026
+    second: Arcade - X-Men - Wolverine_13
+  - first:
+      213: 21300028
+    second: Arcade - X-Men - Wolverine_14
+  - first:
+      213: 21300030
+    second: Arcade - X-Men - Wolverine_15
+  - first:
+      213: 21300032
+    second: Arcade - X-Men - Wolverine_16
+  - first:
+      213: 21300034
+    second: Arcade - X-Men - Wolverine_17
+  - first:
+      213: 21300036
+    second: Arcade - X-Men - Wolverine_18
+  - first:
+      213: 21300038
+    second: Arcade - X-Men - Wolverine_19
+  - first:
+      213: 21300040
+    second: Arcade - X-Men - Wolverine_20
+  - first:
+      213: 21300042
+    second: Arcade - X-Men - Wolverine_21
+  - first:
+      213: 21300044
+    second: Arcade - X-Men - Wolverine_22
+  - first:
+      213: 21300046
+    second: Arcade - X-Men - Wolverine_23
+  - first:
+      213: 21300048
+    second: Arcade - X-Men - Wolverine_24
+  - first:
+      213: 21300050
+    second: Arcade - X-Men - Wolverine_25
+  - first:
+      213: 21300052
+    second: Arcade - X-Men - Wolverine_26
+  - first:
+      213: 21300054
+    second: Arcade - X-Men - Wolverine_27
+  - first:
+      213: 21300056
+    second: Arcade - X-Men - Wolverine_28
+  - first:
+      213: 21300058
+    second: Arcade - X-Men - Wolverine_29
+  - first:
+      213: 21300060
+    second: Arcade - X-Men - Wolverine_30
+  - first:
+      213: 21300062
+    second: Arcade - X-Men - Wolverine_31
+  - first:
+      213: 21300064
+    second: Arcade - X-Men - Wolverine_32
+  - first:
+      213: 21300066
+    second: Arcade - X-Men - Wolverine_33
+  - first:
+      213: 21300068
+    second: Arcade - X-Men - Wolverine_34
+  - first:
+      213: 21300070
+    second: Arcade - X-Men - Wolverine_35
+  - first:
+      213: 21300072
+    second: Arcade - X-Men - Wolverine_36
+  - first:
+      213: 21300074
+    second: Arcade - X-Men - Wolverine_37
+  - first:
+      213: 21300076
+    second: Arcade - X-Men - Wolverine_38
+  - first:
+      213: 21300078
+    second: Arcade - X-Men - Wolverine_39
+  - first:
+      213: 21300080
+    second: Arcade - X-Men - Wolverine_40
+  - first:
+      213: 21300082
+    second: Arcade - X-Men - Wolverine_41
+  - first:
+      213: 21300084
+    second: Arcade - X-Men - Wolverine_42
+  - first:
+      213: 21300086
+    second: Arcade - X-Men - Wolverine_43
+  - first:
+      213: 21300088
+    second: Arcade - X-Men - Wolverine_44
+  - first:
+      213: 21300090
+    second: Arcade - X-Men - Wolverine_45
+  - first:
+      213: 21300092
+    second: Arcade - X-Men - Wolverine_46
+  - first:
+      213: 21300094
+    second: Arcade - X-Men - Wolverine_47
+  - first:
+      213: 21300096
+    second: Arcade - X-Men - Wolverine_48
+  - first:
+      213: 21300098
+    second: Arcade - X-Men - Wolverine_49
+  - first:
+      213: 21300100
+    second: Arcade - X-Men - Wolverine_50
+  - first:
+      213: 21300102
+    second: Arcade - X-Men - Wolverine_51
+  - first:
+      213: 21300104
+    second: Arcade - X-Men - Wolverine_52
+  - first:
+      213: 21300106
+    second: Arcade - X-Men - Wolverine_53
+  - first:
+      213: 21300108
+    second: Arcade - X-Men - Wolverine_54
+  - first:
+      213: 21300110
+    second: Arcade - X-Men - Wolverine_55
+  - first:
+      213: 21300112
+    second: Arcade - X-Men - Wolverine_56
+  - first:
+      213: 21300114
+    second: Arcade - X-Men - Wolverine_57
+  - first:
+      213: 21300116
+    second: Arcade - X-Men - Wolverine_58
+  - first:
+      213: 21300118
+    second: Arcade - X-Men - Wolverine_59
+  - first:
+      213: 21300120
+    second: Arcade - X-Men - Wolverine_60
+  - first:
+      213: 21300122
+    second: Arcade - X-Men - Wolverine_61
+  - first:
+      213: 21300124
+    second: Arcade - X-Men - Wolverine_62
+  - first:
+      213: 21300126
+    second: Arcade - X-Men - Wolverine_63
+  - first:
+      213: 21300128
+    second: Arcade - X-Men - Wolverine_64
+  - first:
+      213: 21300130
+    second: Arcade - X-Men - Wolverine_65
+  - first:
+      213: 21300132
+    second: Arcade - X-Men - Wolverine_66
+  - first:
+      213: 21300134
+    second: Arcade - X-Men - Wolverine_67
+  - first:
+      213: 21300136
+    second: Arcade - X-Men - Wolverine_68
+  - first:
+      213: 21300138
+    second: Arcade - X-Men - Wolverine_69
+  - first:
+      213: 21300140
+    second: Arcade - X-Men - Wolverine_70
+  - first:
+      213: 21300142
+    second: Arcade - X-Men - Wolverine_71
+  - first:
+      213: 21300144
+    second: Arcade - X-Men - Wolverine_72
+  - first:
+      213: 21300146
+    second: Arcade - X-Men - Wolverine_73
+  - first:
+      213: 21300148
+    second: Arcade - X-Men - Wolverine_74
+  - first:
+      213: 21300150
+    second: Arcade - X-Men - Wolverine_75
+  - first:
+      213: 21300152
+    second: Arcade - X-Men - Wolverine_76
+  - first:
+      213: 21300154
+    second: Arcade - X-Men - Wolverine_77
+  - first:
+      213: 21300156
+    second: Arcade - X-Men - Wolverine_78
+  - first:
+      213: 21300158
+    second: Arcade - X-Men - Wolverine_79
+  - first:
+      213: 21300160
+    second: Arcade - X-Men - Wolverine_80
+  - first:
+      213: 21300162
+    second: Arcade - X-Men - Wolverine_81
+  - first:
+      213: 21300164
+    second: Arcade - X-Men - Wolverine_82
+  - first:
+      213: 21300166
+    second: Arcade - X-Men - Wolverine_83
+  - first:
+      213: 21300168
+    second: Arcade - X-Men - Wolverine_84
+  - first:
+      213: 21300170
+    second: Arcade - X-Men - Wolverine_85
+  - first:
+      213: 21300172
+    second: Arcade - X-Men - Wolverine_86
+  - first:
+      213: 21300174
+    second: Arcade - X-Men - Wolverine_87
+  - first:
+      213: 21300176
+    second: Arcade - X-Men - Wolverine_88
+  - first:
+      213: 21300178
+    second: Arcade - X-Men - Wolverine_89
+  - first:
+      213: 21300180
+    second: Arcade - X-Men - Wolverine_90
+  - first:
+      213: 21300182
+    second: Arcade - X-Men - Wolverine_91
+  - first:
+      213: 21300184
+    second: Arcade - X-Men - Wolverine_92
+  - first:
+      213: 21300186
+    second: Arcade - X-Men - Wolverine_93
+  - first:
+      213: 21300188
+    second: Arcade - X-Men - Wolverine_94
+  - first:
+      213: 21300190
+    second: Arcade - X-Men - Wolverine_95
+  - first:
+      213: 21300192
+    second: Arcade - X-Men - Wolverine_96
+  - first:
+      213: 21300194
+    second: Arcade - X-Men - Wolverine_97
+  - first:
+      213: 21300196
+    second: Arcade - X-Men - Wolverine_98
+  - first:
+      213: 21300198
+    second: Arcade - X-Men - Wolverine_99
+  - first:
+      213: 21300200
+    second: Arcade - X-Men - Wolverine_100
+  - first:
+      213: 21300202
+    second: Arcade - X-Men - Wolverine_101
+  - first:
+      213: 21300204
+    second: Arcade - X-Men - Wolverine_102
+  - first:
+      213: 21300206
+    second: Arcade - X-Men - Wolverine_103
+  - first:
+      213: 21300208
+    second: Arcade - X-Men - Wolverine_104
+  - first:
+      213: 21300210
+    second: Arcade - X-Men - Wolverine_105
+  - first:
+      213: 21300212
+    second: Arcade - X-Men - Wolverine_106
+  - first:
+      213: 21300214
+    second: Arcade - X-Men - Wolverine_107
+  - first:
+      213: 21300216
+    second: Arcade - X-Men - Wolverine_108
+  - first:
+      213: 21300218
+    second: Arcade - X-Men - Wolverine_109
+  - first:
+      213: 21300220
+    second: Arcade - X-Men - Wolverine_110
+  - first:
+      213: 21300222
+    second: Arcade - X-Men - Wolverine_111
+  - first:
+      213: 21300224
+    second: Arcade - X-Men - Wolverine_112
+  - first:
+      213: 21300226
+    second: Arcade - X-Men - Wolverine_113
+  - first:
+      213: 21300228
+    second: Arcade - X-Men - Wolverine_114
+  - first:
+      213: 21300230
+    second: Arcade - X-Men - Wolverine_115
+  - first:
+      213: 21300232
+    second: Arcade - X-Men - Wolverine_116
+  - first:
+      213: 21300234
+    second: Arcade - X-Men - Wolverine_117
+  - first:
+      213: 21300236
+    second: Arcade - X-Men - Wolverine_118
+  - first:
+      213: 21300238
+    second: Arcade - X-Men - Wolverine_119
+  - first:
+      213: 21300240
+    second: Arcade - X-Men - Wolverine_120
+  - first:
+      213: 21300242
+    second: Arcade - X-Men - Wolverine_121
+  - first:
+      213: 21300244
+    second: Arcade - X-Men - Wolverine_122
+  - first:
+      213: 21300246
+    second: Arcade - X-Men - Wolverine_123
+  - first:
+      213: 21300248
+    second: Arcade - X-Men - Wolverine_124
+  - first:
+      213: 21300250
+    second: Arcade - X-Men - Wolverine_125
+  - first:
+      213: 21300252
+    second: Arcade - X-Men - Wolverine_126
+  - first:
+      213: 21300254
+    second: Arcade - X-Men - Wolverine_127
+  - first:
+      213: 21300256
+    second: Arcade - X-Men - Wolverine_128
+  - first:
+      213: 21300258
+    second: Arcade - X-Men - Wolverine_129
+  - first:
+      213: 21300260
+    second: Arcade - X-Men - Wolverine_130
+  - first:
+      213: 21300262
+    second: Arcade - X-Men - Wolverine_131
+  - first:
+      213: 21300264
+    second: Arcade - X-Men - Wolverine_132
+  - first:
+      213: 21300266
+    second: Arcade - X-Men - Wolverine_133
+  - first:
+      213: 21300268
+    second: Arcade - X-Men - Wolverine_134
+  - first:
+      213: 21300270
+    second: Arcade - X-Men - Wolverine_135
+  - first:
+      213: 21300272
+    second: Arcade - X-Men - Wolverine_136
+  - first:
+      213: 21300274
+    second: Arcade - X-Men - Wolverine_137
+  - first:
+      213: 21300276
+    second: Arcade - X-Men - Wolverine_138
+  - first:
+      213: 21300278
+    second: Arcade - X-Men - Wolverine_139
+  - first:
+      213: 21300280
+    second: Arcade - X-Men - Wolverine_140
+  - first:
+      213: 21300282
+    second: Arcade - X-Men - Wolverine_141
+  - first:
+      213: 21300284
+    second: Arcade - X-Men - Wolverine_142
+  - first:
+      213: 21300286
+    second: Arcade - X-Men - Wolverine_143
+  - first:
+      213: 21300288
+    second: Arcade - X-Men - Wolverine_144
+  - first:
+      213: 21300290
+    second: Arcade - X-Men - Wolverine_145
+  - first:
+      213: 21300292
+    second: Arcade - X-Men - Wolverine_146
+  - first:
+      213: 21300294
+    second: Arcade - X-Men - Wolverine_147
+  - first:
+      213: 21300296
+    second: Arcade - X-Men - Wolverine_148
+  - first:
+      213: 21300298
+    second: Arcade - X-Men - Wolverine_149
+  - first:
+      213: 21300300
+    second: Arcade - X-Men - Wolverine_150
+  - first:
+      213: 21300302
+    second: Arcade - X-Men - Wolverine_151
+  - first:
+      213: 21300304
+    second: Arcade - X-Men - Wolverine_152
+  - first:
+      213: 21300306
+    second: Arcade - X-Men - Wolverine_153
+  - first:
+      213: 21300308
+    second: Arcade - X-Men - Wolverine_154
+  - first:
+      213: 21300310
+    second: Arcade - X-Men - Wolverine_155
+  - first:
+      213: 21300312
+    second: Arcade - X-Men - Wolverine_156
+  - first:
+      213: 21300314
+    second: Arcade - X-Men - Wolverine_157
+  - first:
+      213: 21300316
+    second: Arcade - X-Men - Wolverine_158
+  - first:
+      213: 21300318
+    second: Arcade - X-Men - Wolverine_159
+  - first:
+      213: 21300320
+    second: Arcade - X-Men - Wolverine_160
+  - first:
+      213: 21300322
+    second: Arcade - X-Men - Wolverine_161
+  - first:
+      213: 21300324
+    second: Arcade - X-Men - Wolverine_162
+  - first:
+      213: 21300326
+    second: Arcade - X-Men - Wolverine_163
+  - first:
+      213: 21300328
+    second: Arcade - X-Men - Wolverine_164
+  - first:
+      213: 21300330
+    second: Arcade - X-Men - Wolverine_165
+  - first:
+      213: 21300332
+    second: Arcade - X-Men - Wolverine_166
+  - first:
+      213: 21300334
+    second: Arcade - X-Men - Wolverine_167
+  - first:
+      213: 21300336
+    second: Arcade - X-Men - Wolverine_168
+  - first:
+      213: 21300338
+    second: Arcade - X-Men - Wolverine_169
+  - first:
+      213: 21300340
+    second: Arcade - X-Men - Wolverine_170
+  - first:
+      213: 21300342
+    second: Arcade - X-Men - Wolverine_171
+  - first:
+      213: 21300344
+    second: Arcade - X-Men - Wolverine_172
+  - first:
+      213: 21300346
+    second: Arcade - X-Men - Wolverine_173
+  - first:
+      213: 21300348
+    second: Arcade - X-Men - Wolverine_174
+  - first:
+      213: 21300350
+    second: Arcade - X-Men - Wolverine_175
+  - first:
+      213: 21300352
+    second: Arcade - X-Men - Wolverine_176
+  - first:
+      213: 21300354
+    second: Arcade - X-Men - Wolverine_177
+  - first:
+      213: 21300356
+    second: Arcade - X-Men - Wolverine_178
+  - first:
+      213: 21300358
+    second: Arcade - X-Men - Wolverine_179
+  - first:
+      213: 21300360
+    second: Arcade - X-Men - Wolverine_180
+  - first:
+      213: 21300362
+    second: Arcade - X-Men - Wolverine_181
+  - first:
+      213: 21300364
+    second: Arcade - X-Men - Wolverine_182
+  - first:
+      213: 21300366
+    second: Arcade - X-Men - Wolverine_183
+  - first:
+      213: 21300368
+    second: Arcade - X-Men - Wolverine_184
+  - first:
+      213: 21300370
+    second: Arcade - X-Men - Wolverine_185
+  - first:
+      213: 21300372
+    second: Arcade - X-Men - Wolverine_186
+  - first:
+      213: 21300374
+    second: Arcade - X-Men - Wolverine_187
+  - first:
+      213: 21300376
+    second: Arcade - X-Men - Wolverine_188
+  - first:
+      213: 21300378
+    second: Arcade - X-Men - Wolverine_189
+  - first:
+      213: 21300380
+    second: Arcade - X-Men - Wolverine_190
+  - first:
+      213: 21300382
+    second: Arcade - X-Men - Wolverine_191
+  - first:
+      213: 21300384
+    second: Arcade - X-Men - Wolverine_192
+  - first:
+      213: 21300386
+    second: Arcade - X-Men - Wolverine_193
+  - first:
+      213: 21300388
+    second: Arcade - X-Men - Wolverine_194
+  - first:
+      213: 21300390
+    second: Arcade - X-Men - Wolverine_195
+  - first:
+      213: 21300392
+    second: Arcade - X-Men - Wolverine_196
+  - first:
+      213: 21300394
+    second: Arcade - X-Men - Wolverine_197
+  - first:
+      213: 21300396
+    second: Arcade - X-Men - Wolverine_198
+  - first:
+      213: 21300398
+    second: Arcade - X-Men - Wolverine_199
+  - first:
+      213: 21300400
+    second: Arcade - X-Men - Wolverine_200
+  - first:
+      213: 21300402
+    second: Arcade - X-Men - Wolverine_201
+  - first:
+      213: 21300404
+    second: Arcade - X-Men - Wolverine_202
+  - first:
+      213: 21300406
+    second: Arcade - X-Men - Wolverine_203
+  - first:
+      213: 21300408
+    second: Arcade - X-Men - Wolverine_204
+  - first:
+      213: 21300410
+    second: Arcade - X-Men - Wolverine_205
+  - first:
+      213: 21300412
+    second: Arcade - X-Men - Wolverine_206
+  - first:
+      213: 21300414
+    second: Arcade - X-Men - Wolverine_207
+  - first:
+      213: 21300416
+    second: Arcade - X-Men - Wolverine_208
+  - first:
+      213: 21300418
+    second: Arcade - X-Men - Wolverine_209
+  - first:
+      213: 21300420
+    second: Arcade - X-Men - Wolverine_210
+  - first:
+      213: 21300422
+    second: Arcade - X-Men - Wolverine_211
+  - first:
+      213: 21300424
+    second: Arcade - X-Men - Wolverine_212
+  - first:
+      213: 21300426
+    second: Arcade - X-Men - Wolverine_213
+  - first:
+      213: 21300428
+    second: Arcade - X-Men - Wolverine_214
+  - first:
+      213: 21300430
+    second: Arcade - X-Men - Wolverine_215
+  - first:
+      213: 21300432
+    second: Arcade - X-Men - Wolverine_216
+  - first:
+      213: 21300434
+    second: Arcade - X-Men - Wolverine_217
+  - first:
+      213: 21300436
+    second: Arcade - X-Men - Wolverine_218
+  - first:
+      213: 21300438
+    second: Arcade - X-Men - Wolverine_219
+  - first:
+      213: 21300440
+    second: Arcade - X-Men - Wolverine_220
+  - first:
+      213: 21300442
+    second: Arcade - X-Men - Wolverine_221
+  - first:
+      213: 21300444
+    second: Arcade - X-Men - Wolverine_222
+  - first:
+      213: 21300446
+    second: Arcade - X-Men - Wolverine_223
+  - first:
+      213: 21300448
+    second: Arcade - X-Men - Wolverine_224
+  - first:
+      213: 21300450
+    second: Arcade - X-Men - Wolverine_225
+  - first:
+      213: 21300452
+    second: Arcade - X-Men - Wolverine_226
+  - first:
+      213: 21300454
+    second: Arcade - X-Men - Wolverine_227
+  - first:
+      213: 21300456
+    second: Arcade - X-Men - Wolverine_228
+  - first:
+      213: 21300458
+    second: Arcade - X-Men - Wolverine_229
+  - first:
+      213: 21300460
+    second: Arcade - X-Men - Wolverine_230
+  - first:
+      213: 21300462
+    second: Arcade - X-Men - Wolverine_231
+  - first:
+      213: 21300464
+    second: Arcade - X-Men - Wolverine_232
+  - first:
+      213: 21300466
+    second: Arcade - X-Men - Wolverine_233
+  - first:
+      213: 21300468
+    second: Arcade - X-Men - Wolverine_234
+  - first:
+      213: 21300470
+    second: Arcade - X-Men - Wolverine_235
+  - first:
+      213: 21300472
+    second: Arcade - X-Men - Wolverine_236
+  - first:
+      213: 21300474
+    second: Arcade - X-Men - Wolverine_237
+  - first:
+      213: 21300476
+    second: Arcade - X-Men - Wolverine_238
+  - first:
+      213: 21300478
+    second: Arcade - X-Men - Wolverine_239
+  - first:
+      213: 21300480
+    second: Arcade - X-Men - Wolverine_240
+  - first:
+      213: 21300482
+    second: Arcade - X-Men - Wolverine_241
+  - first:
+      213: 21300484
+    second: Arcade - X-Men - Wolverine_242
+  - first:
+      213: 21300486
+    second: Arcade - X-Men - Wolverine_243
+  - first:
+      213: 21300488
+    second: Arcade - X-Men - Wolverine_244
+  - first:
+      213: 21300490
+    second: Arcade - X-Men - Wolverine_245
+  - first:
+      213: 21300492
+    second: Arcade - X-Men - Wolverine_246
+  - first:
+      213: 21300494
+    second: Arcade - X-Men - Wolverine_247
+  - first:
+      213: 21300496
+    second: Arcade - X-Men - Wolverine_248
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3049
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805db8a89d3d44a7aa6d0d653fe62e13
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3052
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2ddb0fdac654a9088afad980ca2ef3
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 3049
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97869d89bd34d4fd3b31304c2fbae889
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 3049
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac23b130de794e1d974685a080368e0
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2924
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d99492d92194484a5a52110355efaa
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2924
+        width: 39
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbf31cf0d98644e4aecce35246b7fea
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_6
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2924
+        width: 38
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d373006053943309f35ab5f1bd79de
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2924
+        width: 59
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9086d926ace5645329ae1e8a10f2c645
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_8
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2924
+        width: 55
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c630603b2fe4cb4ad2da52da2831b1
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_9
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 2924
+        width: 57
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483cdb24ad02c452eb8464e3f9868083
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_10
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2924
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25cbf226b0644ce9ac8da177955ec9e
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2924
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e1ea787e9d34fd0bdaf06cfb9a2e5a
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_12
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 2924
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802813161de834931bb8b6b6383b8f9e
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_13
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 2916
+        width: 252
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dffbbbbb962c46eba22a02d5958317c
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2821
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01213b14b62f4560acdf621e19bc4d6
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2821
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b1248caf9ed4083b72431e9cc0b985
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_16
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2821
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1561f4397993e440c827ad05f93cfe7f
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_17
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2821
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017d2241a57e84bf88341bc29f862d70
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_18
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2821
+        width: 71
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecc0892409e34b45b8ff2833c75fe29
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_19
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2821
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29853807bc217455097ef4d827c4be82
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_20
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2821
+        width: 58
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c6b0caa707a4f53b29536be72db229
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_21
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 2821
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6116c3544d21b4d0db82143f95cbc223
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_22
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 2852
+        width: 216
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e4e82c2fb204494b110c3cf1256e56
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_23
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 2900
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6cd95be34a64849b87d765f1068418
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_24
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 2876
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d09f7020e4e420aa94c33cde03e3ce
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_25
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 2835
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811e70c8380a94d068029c2c3d4db23c
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_26
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 2835
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60341df3390654528911c30f0cada017
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_27
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 2836
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ef0b4e3c15c43fda825b3a1cbf7fbf
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_28
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 2835
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a749c49a6c14827bcbacde4ec0cbb3
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_29
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 2835
+        width: 71
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1224ae3b946e14b6e8f0c9636134966f
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2719
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63540bc0a5824461da5f51af602604b1
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2719
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5d4801090ff48ad93cc87d3816d3cc
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_32
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2719
+        width: 56
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1726e6324fd774f0e8d5b1eeb493418f
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_33
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2719
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4181dffb3004a491b99f992e39f3f50a
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_34
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2719
+        width: 69
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f53c9f891ec4623b6e05ebf4645b77
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_35
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2719
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2b78f29279e4010832f62d0252bd73
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_36
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2719
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3f7f9184ef84278a752ccdb619e54b
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_37
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 2719
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7802358766c4a70915d1b6a7fae8fd
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_38
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 2740
+        width: 131
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3f1adb3047f4a1f94f9839a357f5a5
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_39
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 2715
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2491fbaf64546c4934dd27c5fd4a03
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_40
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 2685
+        width: 71
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386ae9dfe246e4adf910cd5e382d6ae7
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_41
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 2715
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440b2defbd6784c3bb21ff925ea57f78
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_42
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2608
+        width: 61
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e5822d004144c26b70ddf5a803520d
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_43
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2607
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7d6b3dde26b4465a6be38196be1d9c
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_44
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 2700
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661109301a82d455685d854f8e136f3e
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_45
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 2685
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0296df7c64064278a773326929ad931
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_46
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2607
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0ff81bfd38e40ffb3b7d414210301a
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_47
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2608
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa2fccf1ac904b3993707d64b74114f
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_48
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2608
+        width: 101
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34856ec4c376c42caa94bfd16743b352
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_49
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2608
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5c544a42f2d4b999446e82ea5fe961
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_50
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2608
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d00384de53354248921d12b05cbfa8b
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_51
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2608
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf709ced9484489dbe02f8b4799c1ac
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_52
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 2667
+        width: 57
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cd41ad8034b4fcca1c708d7d9645cc
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_53
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 2668
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ebd800abde54d1bac6c8dafb84f8d1
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_54
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 2667
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84362eae2e9a14018a4be347c1b3ab2b
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_55
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 2652
+        width: 50
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d6006e155784345a42b4082e81f492
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_56
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 2643
+        width: 137
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0323589d6fe14866bf3c612eae41933
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_57
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 2652
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2955be31563ab480e9d25ebf76ed3667
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_58
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2493
+        width: 61
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678ea8d498deb42f89eff2bc557b79e9
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_59
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2493
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe9b2b691815452f8fea4dcae214546
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_60
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2493
+        width: 96
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7a2fa9886a746669336ab16750398a
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_61
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2493
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad494163d5170480ead523ee46589b17
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_62
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2493
+        width: 70
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939ee06d688bc4f1e8cacf361e396572
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_63
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2493
+        width: 99
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e5e06f7d35f47238d23a6db8b97266
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_64
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2493
+        width: 78
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b6492cb66cd4fca9a8a6ab5a19a175
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_65
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2493
+        width: 68
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b869ffc2df6340a4b612cde85995d5f
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_66
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 2493
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41797462e71c843478c8a46513d0d3ba
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_67
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2493
+        width: 71
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e501bb932f67d422790e3ac6a1605d25
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_68
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2493
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c32a0b0183f48349daafb390c0d3fe
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_69
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 2493
+        width: 71
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1aa7d819b8f492a9976b724398a14d
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_70
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 2493
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c20b0d1ee1f049acaa4a3c7457adb13
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_71
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2378
+        width: 62
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bf0543b2802431b840572abce9a5c0
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_72
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2378
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285864664550547a8b27b6be14133f98
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_73
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2378
+        width: 98
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f525ef5530c46fc9b67179c7ed784d
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_74
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2378
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1e6439661114ab6a89d9a4b4ad5690
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_75
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2378
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4dc95c8b0e34e2991e15db39708f44
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_76
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2378
+        width: 99
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ec773280a034e2296586155639a75c
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_77
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2378
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b146dfe8d4b4cc595a8273c959bb10
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_78
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2378
+        width: 69
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b242d02e21fa4830ace256bca55a8ff
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_79
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 2378
+        width: 52
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010ac2ec792294b0b8ac4d06be3b8779
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_80
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2378
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810d6ecf6f4974475bcc5c38220eb277
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_81
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 2378
+        width: 82
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7a487f24ba047b89893a08f7024570
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_82
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 2378
+        width: 112
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd78ff201c5049e49db75202f6089b0
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_83
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 2378
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03197a04d7b044e9cab648a4aefc2ba7
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_84
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 2378
+        width: 47
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2000d3816ce4ef48f2caaf34d267cd
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_85
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2262
+        width: 61
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb68bc54d34f64345816511b04eb37d9
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_86
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2262
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b58ef6960d0d4f93988bf99b01ff24d
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_87
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2262
+        width: 96
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24208af36eb4434292caac78d1b7df0
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_88
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2262
+        width: 69
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf658960e56741fa89b16a81250a8e7
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_89
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2262
+        width: 70
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a49fac388ef4954b55384f7e97bd43
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_90
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2262
+        width: 99
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d21b7137e6494ea5a61e9465308fd91
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_91
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2262
+        width: 78
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19b04352fa474cbf8070c95b9bb1ca8
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_92
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2262
+        width: 68
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ca9f59414e046578c7eba5c40ea41b
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_93
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 2262
+        width: 93
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df20c1e23e3841deacb1e576c0dc129
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_94
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 2262
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4bd0dc0b9e24255b5a0cf8471d89b6
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_95
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 2262
+        width: 86
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287203bfad770426d8dea0d70c0ed1ad
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_96
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 2262
+        width: 104
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc739db886e2469e8dcc602755f59c2
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_97
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2262
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a3c2644a0e54a5d96c8c4b35c8c4cd
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_98
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 2262
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1370a62eb413145328b4eccca0eb86a4
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_99
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2144
+        width: 50
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afebf7c294e2342baba6ad6f154b33eb
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_100
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2144
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3afee0300a224b349eb2533b380f914
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_101
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2144
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62105ef7492e44988fe6449d845b35d
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_102
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2144
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef609db66d6b483bb1188f2d8914c65
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_103
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2144
+        width: 71
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0ef41e8444c42938c0dfe4a71bfc1d
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_104
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 2144
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e91a00eae99463c90cbf8a99c9e035
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_105
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 2144
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89f44f14e4ff4ce6a51387621ba3c1e
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_106
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2144
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbd6e32ca41c4441b6502383aca1635
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_107
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2042
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b125a15676664e9393f3d4ee7191557
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_108
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2042
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f267a3b77b025462989049107e7c9265
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_109
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2042
+        width: 88
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd28ddd5bf46e48868c462cccce1de93
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_110
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2042
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915794b3d058d4f01a6c667947a36941
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_111
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2042
+        width: 56
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb0bff3e7f874699b0d79274b01ba39
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_112
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2042
+        width: 60
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bd24f7af0bb4d42b10512fed4078cf
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_113
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2042
+        width: 71
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb580e573484419d8f314b73043f0d5
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_114
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2042
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780984774d823462c84295776c9a213d
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_115
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1958
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07114a12429884481bfdb6c672c3025a
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_116
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1929
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47706380609584fe39cd96c62c091cc0
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_117
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1929
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5527c9b3b0f3a4efa884245c9719e5d1
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_118
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1929
+        width: 101
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140ef1dd993134590a0f5c65fdc8e876
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_119
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1929
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ccd73c37900466ca46294e627bb59f
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_120
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1929
+        width: 75
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b176e3f41184bf3bbc6b2aef0cfa2b
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_121
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1929
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e779318e9124d4f3a80e94d7978910be
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_122
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1929
+        width: 91
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50815a58017f44ec69887a1f2117c7e7
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_123
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1929
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4586bfcf1e6a2473f957e8bcdd7c6ab6
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_124
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1929
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bd60285dab148d4bc64954b3317f9e
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_125
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1929
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa70a68646fc462f8a88e4868945bd8
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_126
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1929
+        width: 68
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66fe3202b73f4adfb9d8adb61a13121
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_127
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1929
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b39063da95e14db0b8e641916504e48
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_128
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1929
+        width: 109
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32743f0af35d4d29abe95af98131899
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_129
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1817
+        width: 59
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370aa67585e5d46908512f6018b6f117
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_130
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1817
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79a33eb8c8d34b4cb067b10820b22d8
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_131
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1816
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d3370996a6a4162bf10402efb73a51
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_132
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1813
+        width: 5
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ebeff2e31de4459bca2a03f94aa8dc
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_133
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1816
+        width: 61
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd560ad3879e4739aa5405c9858c821
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_134
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1817
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d0b7566a28046019e5598f7b3cede7
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_135
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1817
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80183604cb9bd4143a425a8a74768c62
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_136
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1817
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fccf7c8ec12b4ebe98c1ef3648aee84
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_137
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1817
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cf897bfe3d74ee38d31f48758a1455
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_138
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1817
+        width: 97
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd16c450549148adb868322cb21b429
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_139
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1813
+        width: 4
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5962717eb999f411eaa2c0df28335a5f
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_140
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1817
+        width: 58
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a0e3eec01a04999a624e98316fe3c9
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_141
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1817
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81239486a934b4dba98723b855048848
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_142
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1817
+        width: 119
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0f1e7ad3d4444f7b9046bbaccf6277
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_143
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1816
+        width: 96
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46af1ef6518247adbf2bad2df6dc7d3
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_144
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1709
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b4e90a15f7c41c6affbf38e0c774a9
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_145
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1709
+        width: 67
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbd21b31fed4450eba51362a9b9aa3e
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_146
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1709
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e746838a0398454285f7647b94af2c8
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_147
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1600
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dcec8e7c951460eb5191131223cb59
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_148
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1600
+        width: 67
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038629eff9ca04908a4397b73974823a
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_149
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1601
+        width: 95
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717cc793cd4e7404e82db23f410c8474
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_150
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1601
+        width: 110
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f2e8c58a5df45dda35bbfd44d28b1b
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_151
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1600
+        width: 82
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edbc7a93a1ec480b900b0984473c6d6
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_152
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1600
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5821772c52b59487ca7bb13f399c844b
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_153
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1601
+        width: 97
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ae4deff018b4d2f86bd010b5128c52
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_154
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1600
+        width: 127
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93faad2104188489997690b27684da5f
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_155
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1600
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82be6fa82520740be966a79d240fa48c
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_156
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1601
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214da4d06b5e440ccb9cb05faaa6987c
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_157
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1601
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7032fd6e84ce746d994ff4e715a83cf0
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_158
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1507
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf20406658ef440339e1748b18481cb2
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_159
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1505
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2eb03d25660491ea2ecdbd6fbca586
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_160
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1507
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b9263a05c944d7388516f9cc391488
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_161
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1405
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd7ffea420b246d6b1e1b9806daeb7d
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_162
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1402
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a247190ac5a9e4782b7fc7be4a1d8543
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_163
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1405
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1218f2be0c0784f9da87978c9bb58e69
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_164
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1403
+        width: 107
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9297f43238cfc445992bf72a94d4e294
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_165
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1405
+        width: 103
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac134f690765406986611cce8046a2a
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_166
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1405
+        width: 106
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2e68e73270342759c3e9f89a9707c5
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_167
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1405
+        width: 111
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41765f7b823624821b1d685111136bfe
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_168
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1403
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b05b96bdab24ea3ae13053412ed043
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_169
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1403
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a789deb7d26fa420693682ea2dab5017
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_170
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1403
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea11f038ed3b48f5a141471a217c745
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_171
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1404
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a8fe006127046889907fb9a672917a
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_172
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1306
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f998dac6001744ca4809730b66b1fa0d
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_173
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1306
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf18ed20aaed422fa564f2a8205fdc0
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_174
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1306
+        width: 94
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9094966043930445c80132f41ab68aa3
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_175
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1306
+        width: 108
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa841e92c6fe6454ab0ead195352893b
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_176
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1306
+        width: 85
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96b114a41fb84cbe91945f70ff59ec4
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_177
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1306
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf5a92b36cd8483e8d1f260a885ade4
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_178
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1306
+        width: 98
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaed4eef60114c86bc55202e434e2b4
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_179
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1306
+        width: 128
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61241d6a1086241bb9268e0af33333dd
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_180
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1212
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d09480f41a74c27b40914373f80030
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_181
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1212
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f448272d6c3f24dfbaa4a17a22c27b5f
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_182
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1210
+        width: 103
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f1c524ec6be4266a6d6cc71c60519b
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_183
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1210
+        width: 101
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf309a590054249e1b2f73f1c34f054e
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_184
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1211
+        width: 105
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba3f612ba4cf46cfb00f2d4a470a8a4
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_185
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1213
+        width: 111
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f9a418159024067ac104191d5b5662
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_186
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1210
+        width: 126
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3484126c3fd4f0d9a6735c24c79baa
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_187
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1041
+        width: 123
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f2de8f17751476ca5639b320c98ed2
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_188
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1037
+        width: 102
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fd7db53c377470eb2f469298cd91eb
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_189
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1037
+        width: 106
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62e3eab6d6a74242bed39311004bad3
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_190
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1037
+        width: 101
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2307f4ac4849f4adfae61764947f4bc0
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_191
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1041
+        width: 124
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2e9597023b243a7bb111d3b8bbca96
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_192
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1041
+        width: 106
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ba4eeef756e4e33966f60d99ea8f64
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_193
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 933
+        width: 77
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa3f44bbddf848c2bd0eda530e12941
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_194
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 933
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510cdd2bd888b44afbbbf724baf889ce
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_195
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 933
+        width: 88
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8ac6c9420d24db3b5eb9f325d42ab7
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_196
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 933
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6d1ca8325f546389773eb823be9ab0
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_197
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 933
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f3fec4446ca489f92588bbee8493a1
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_198
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 933
+        width: 98
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b1611e4e49b44129d91379f856718a
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_199
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 933
+        width: 101
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5199e0437e9f54e17aaf53288b3e07b5
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_200
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 933
+        width: 102
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56ed294a053a4ebf900525e8b5b7ad2
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_201
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 933
+        width: 105
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d457e13ea4754b988983889ec1be45a
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_202
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 933
+        width: 111
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc46b31c18caa4b438aa4bd6a5a3833e
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_203
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 933
+        width: 127
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079f0d8b890de4ee388c13c8b5a1c4db
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_204
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 933
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d433b163bf8a84d34b29d75a9785671d
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_205
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 933
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7982d9017b5f1434dbd534f64d283a00
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_206
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 933
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734e04068c6d14060b1dab47976a3234
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_207
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 925
+        width: 1257
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f993fd15e3f4feeb53aba55c80f812
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_208
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 815
+        width: 62
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891b0ac8507e14156ab7a980aab882e4
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_209
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 818
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27acd92354994404ae3a6299ec808bb
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_210
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 815
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27958e5bcd0cd44a49dbdc29a26251b4
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_211
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 818
+        width: 69
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce159a31b1f1460e82606838e9eb400
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_212
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 815
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35add185e525347f0b5ed7cf8bd3c1c2
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_213
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 815
+        width: 99
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab292316d997489e85f48dc2ea61732
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_214
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 818
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36697fc3160ab446a8f83a5803bc5f8b
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_215
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 815
+        width: 67
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef792b21a036043e5b8e078b0a745eca
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_216
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 800
+        width: 638
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f86379a3469d45008b44a13f0a88818
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_217
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 726
+        width: 83
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd6a109e57794241b4d994c1f7aaeaa
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_218
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 725
+        width: 146
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea643d7a60074bdf83eba043bdbdf68
+      internalID: 21300436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_219
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 728
+        width: 146
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e28e4d3093f4717ba57b4183354de8
+      internalID: 21300438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_220
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 729
+        width: 183
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b775e7c7ded544278547c05e4b6f662
+      internalID: 21300440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_221
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 725
+        width: 200
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7241d1b3362e54c91bad997f32d01a92
+      internalID: 21300442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_222
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 725
+        width: 199
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52c96e29f5f142999cc55764ea011ac
+      internalID: 21300444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_223
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 663
+        width: 97
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4a7fde2d5194ed8b4d21004bca7c2d
+      internalID: 21300446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_224
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 662
+        width: 128
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01db38a9160dd413d84c4a968beffe42
+      internalID: 21300448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_225
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 659
+        width: 132
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719825d20590949c18f052687015bcaf
+      internalID: 21300450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_226
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 662
+        width: 144
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cb241d7fafe44c7ba59583c1e5730f
+      internalID: 21300452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_227
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 665
+        width: 340
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f28249fa52d2471087ac9af25537f25
+      internalID: 21300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_228
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 596
+        width: 339
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe15535b160f40dea01d2d8db1b9f94
+      internalID: 21300456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_229
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 587
+        width: 177
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0373ee3e8256f4c37a0d9ae8c6f512a7
+      internalID: 21300458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_230
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 590
+        width: 346
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e019f2d05cf4e628051c35b7d2a24c
+      internalID: 21300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_231
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 524
+        width: 346
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956291eb502fe4e61922035f89e6f10b
+      internalID: 21300462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_232
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 524
+        width: 398
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559a3002fdc884a179487c056979d421
+      internalID: 21300464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_233
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 453
+        width: 394
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e188c7f3a8c8c4ef48f0c20c86a03be6
+      internalID: 21300466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_234
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 453
+        width: 395
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd787847ff3f14874bd7431466f97ba5
+      internalID: 21300468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_235
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 457
+        width: 174
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e5ce3e0fbdf41d7a00ffb69155a227
+      internalID: 21300470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_236
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 387
+        width: 203
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bc736cb32464c60ab5f4b94dfbd9af
+      internalID: 21300472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_237
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 387
+        width: 205
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7eff1b471d3f4768b8fbc54a1f5b342
+      internalID: 21300474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_238
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 387
+        width: 201
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4887fc5811fee43698d52d4f54c54d86
+      internalID: 21300476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_239
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 389
+        width: 406
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cafce7a5b2e487c90bad226781dbea
+      internalID: 21300478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_240
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 320
+        width: 407
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2a9534ae0344059832374ac996baa3
+      internalID: 21300480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_241
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 313
+        width: 209
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07069e0c9eb0a49f68a8fcc9cea75415
+      internalID: 21300482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_242
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 315
+        width: 346
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103466ac7e6234997ad79dbfa5652720
+      internalID: 21300484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_243
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 246
+        width: 346
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09458f7c3efda48c5bdea19cb9a1818a
+      internalID: 21300486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_244
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 250
+        width: 398
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b95ef5c0b8d4a189a93b1449ffb743
+      internalID: 21300488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_245
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 7
+        width: 262
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9692dc9a87db48e980a8046420834fa
+      internalID: 21300490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_246
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 7
+        width: 262
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51632cb3fedb64271bad2b48c59e5d42
+      internalID: 21300492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_247
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 6
+        width: 187
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9ca35282fd74549af68e1f9a7a3fe7
+      internalID: 21300494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - X-Men - Wolverine_248
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 7
+        width: 256
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76e4796f172442249ee25b872b43638
+      internalID: 21300496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3a0d233ffc3974b4688ba7b95fdd30d0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
